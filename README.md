@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-This is project Rock Paper Scissors Game is based on HTML, CSS, JavaScript .
+This is project Tic-Tac-Toe Game is based on HTML, CSS, JavaScript .
